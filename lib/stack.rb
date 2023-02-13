@@ -12,7 +12,7 @@ class Stack
     @stack.pop
   end
 
-  def peek
+  def peek 
     @stack.last
   end
 
